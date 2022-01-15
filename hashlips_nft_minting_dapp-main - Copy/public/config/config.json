@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1Ca9789D8BCD90F2552bc1bBfCc4E211DF17C44A",
+  "SCAN_LINK": "https://polygonscan.com/token/0x1Ca9789D8BCD90F2552bc1bBfCc4E211DF17C44A",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Blood Brothas",
+  "SYMBOL": "Blood Brotha",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bloodbrothas",
+  "SHOW_BACKGROUND": true
+}
